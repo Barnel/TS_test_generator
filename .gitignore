@@ -24,3 +24,6 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local dev notes (not for repo)
+CLAUDE.md
